@@ -11,7 +11,7 @@ communication; this portfolio documents the technical layer I'm building on
 top of that: writing production-quality code, working directly with data 
 pipelines, and validating models rather than taking them on faith. 
 You will also find my portfolio of selected projects from my career, 
-which highlight key business challenges I resolved for clients.
+which highlights key business challenges I resolved for clients.
 
 Current areas of focus:
 
