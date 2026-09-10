@@ -9,8 +9,11 @@ This page, and the repositories behind it, are under active development.
 Coming from consulting, I bring structured problem-solving and stakeholder 
 communication; this portfolio documents the technical layer I'm building on 
 top of that: writing production-quality code, working directly with data 
-pipelines, and validating models rather than taking them on faith. Current 
-areas of focus:
+pipelines, and validating models rather than taking them on faith. 
+You will also find my portfolio of selected projects from my career, 
+which highlight key business challenges I resolved for clients.
+
+Current areas of focus:
 
 - **Competitive Intelligence Dashboard** — a multi-platform data pipeline 
   tracking personal finance applications across the Google Play Store and 
